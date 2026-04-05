@@ -1,0 +1,3 @@
+- [x] Create crc.c with CRC generation function and main to read inputs
+- [ ] Compile crc.c
+- [ ] Test the program with sample inputs
